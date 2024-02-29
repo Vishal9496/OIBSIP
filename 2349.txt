@@ -1,0 +1,9 @@
+Account Created
+Account Number:2349
+USER ID OF PERSONkranthi_1980
+Account Holder Name:kranthi
+Pin:5172
+balance_amount5000.0
+DateThu Feb 29 00:14:57 IST 2024
+
+

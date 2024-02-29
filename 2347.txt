@@ -1,0 +1,9 @@
+Account Created
+Account Number:2347
+USER ID OF PERSONsunny_1997
+Account Holder Name:sunny
+Pin:1213
+balance_amount6000.0
+DateThu Feb 29 00:13:56 IST 2024
+
+

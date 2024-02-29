@@ -1,0 +1,9 @@
+Account Created
+Account Number:2348
+USER ID OF PERSONvamshi_2001
+Account Holder Name:vamshi
+Pin:4197
+balance_amount3000.0
+DateThu Feb 29 00:14:27 IST 2024
+
+

@@ -1,0 +1,9 @@
+Account Created
+Account Number:2345
+USER ID OF PERSONchitty_2003
+Account Holder Name:chitty
+Pin:1534
+balance_amount15000.0
+DateThu Feb 29 00:12:59 IST 2024
+
+
