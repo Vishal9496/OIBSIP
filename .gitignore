@@ -1,0 +1,53 @@
+# =============================
+# Java Project .gitignore
+# =============================
+
+# Ignore compiled class files
+*.class
+
+# Ignore log files
+*.log
+
+# Ignore packaged files
+*.jar
+*.war
+*.ear
+
+# =============================
+# IntelliJ IDEA
+# =============================
+.idea/
+*.iml
+out/
+
+# =============================
+# VS Code
+# =============================
+.vscode/
+
+# =============================
+# Build directories (common)
+# =============================
+bin/
+target/
+build/
+
+# =============================
+# OS-specific files
+# =============================
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Mac
+.DS_Store
+
+# Linux temporary files
+*~
+
+# =============================
+# Backup & Temp
+# =============================
+*.tmp
+*.swp
+*.bak
