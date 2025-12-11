@@ -1,7 +1,7 @@
 import java.util.Objects;
 import java.util.Scanner;
 
-class run_atm {
+class RunATM {
    
    // Search for account by unique ID and return its index
    int account_search_by_unique_id(Account1[] accounts, String uniqueId) {

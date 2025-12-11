@@ -1,2 +1,4 @@
-# OIBSIP
-The main theame of this project is to build an ATM application using JAVA as a programming language I have used Intellij Idea IDE to build the project To build the project we need have the basic knowledge in JAVA (loops,Exceptional handling and so on..) We can perform actions such as Withdraw,Deposit,Transfer and check the Histroy of the Transactions in the application
+Hey everyone!
+This is a simple ATM project I built using Core Java. I wanted to understand how real banking systems work internally, especially things like account creation, PIN verification, money transfer, and maintaining transaction history.So I created this mini ATM simulation using only Java and text files.
+
+It's a console-based project, easy to run, and beginner-friendly.
